@@ -1,0 +1,36 @@
+body{
+    font-family:sans-serif;
+    margin: 0;
+}
+#header{
+    display: flex;
+}
+h1{font-size: 50px;
+
+}
+.link-color{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    border-radius: 10px;
+}
+.header-part img{
+    width: 100%;
+    height: fit-content;
+}
+.header-part{
+    width: 50%;
+    padding-left: 5%;
+}
+.text-color{
+    color: orange;
+}
+.welpart{
+    color: blueviolet;
+}
+.header-part h2{
+    color: tomato;
+}
+.java{
+    color: rgb(58, 232, 19);
+}
